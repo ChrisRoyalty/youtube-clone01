@@ -160,7 +160,9 @@ nav a:hover {
 }
 .fig-3 .one{
     width: 50px;
-    border: 1px solid black;
+}
+.one img{
+    border-radius: 50%;
 }
 
 figure {
@@ -171,7 +173,6 @@ figcaption{
     padding: 0;
     margin: 0;
     line-height: 16px;
-    border: 2px solid green;
 
 }
 
